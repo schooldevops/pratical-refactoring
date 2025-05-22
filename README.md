@@ -1,8 +1,8 @@
 # Pratical Refactoring with UncleBae
 
-## [Java 중첩 if 구문에 대한 Refactoring 전략](01.RefactoringOfNestedIf.md)
+### [01. Java 중첩 if 구문에 대한 Refactoring 전략](01.RefactoringOfNestedIf.md)
 
-## [메소드내 메소드가 반복되는 중첩메서드 해결전략](02.RefactoringOfNestedMethod.md)
+### [02. 메소드내 메소드가 반복되는 중첩메서드 해결전략](02.RefactoringOfNestedMethod.md)
 
 ## 실무 적용 단계별 접근법
 
